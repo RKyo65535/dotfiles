@@ -1,0 +1,2 @@
+# dotfiles
+Unity用のGitignoreなど
